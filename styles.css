@@ -1,0 +1,21 @@
+/* styles.css */
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: bisque;
+    color: hsl(0, 3%, 26%);
+    text-shadow: 20px;
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 10px 60px 60px rgba(0, 0, 0, 0.1);
+}
